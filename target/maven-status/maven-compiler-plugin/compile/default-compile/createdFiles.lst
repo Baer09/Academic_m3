@@ -1,4 +1,5 @@
 edu\academik\telus\jw1c2021\web\jdbc\controlador\modelo\Equipo.class
 edu\academik\telus\jw1c2021\web\jdbc\controlador\servicio\ConexionDBSingleton.class
 edu\academik\telus\jw1c2021\web\jdbc\controlador\EquipoListadoServlet.class
+edu\academik\telus\jw1c2021\web\jdbc\controlador\EquipoCrearServlet.class
 edu\academik\telus\jw1c2021\web\jdbc\controlador\servicio\EquipoServicio.class
